@@ -1,4 +1,4 @@
-![github-submission-banner](https://github.com/user-attachments/assets/a1493b84-e4e2-456e-a791-ce35ee2bcf2f)
+
 
 🚀 RESQ
 
@@ -24,24 +24,7 @@ RESQ solves this by providing instant alerts, guided evacuation, and volunteer c
 
 ---
 
-🧬 Team & Approach
-
-Team Name:
-
-ByteRunners
-
-Team Members:
-
-Divyansh Dwivedi (GitHub / Team Leader)
-
-Divyanshu Kumar Yadav
-
-Shreya Yadav
-
-Harsh Singh
-
-
-Our Approach:
+Project Approach:
 
 Chose this problem to save lives during unpredictable crises using AI-powered systems.
 
@@ -176,18 +159,16 @@ Groq API for AI-based user query resolution.
 Tailwind CSS for fast, responsive front-end design.
 
 
-Special thanks to hackathon organizers and supporting teams for inspiration and mentorship!
 
 
 ---
 
 🏁 Final Words
 
-Our journey with RESQ was about building something that can literally save lives.
-From brainstorming real-world use cases to building a live MVP within hackathon deadlines, we faced and conquered numerous challenges.
-We learned a lot about real-time systems, predictive routing, and team collaboration under pressure.
+RESQ was built with a clear goal: creating a technology-driven solution that can help save lives during disasters.
+This project strengthened my understanding of real-time systems, AI-assisted decision-making, and scalable front-end design under time constraints.
 
-#ByteRunners for the win!
+
 
 
 ---
