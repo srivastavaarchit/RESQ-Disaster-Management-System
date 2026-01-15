@@ -87,7 +87,7 @@ MVP (Working Prototype):
 
 Live MVP: https://divyansh1610.github.io/RESQ/
 
-GitHub Repository: https://github.com/DIVYANSH1610/RESQ
+GitHub Repository: https://github.com/srivastavaarchit/RESQ-Disaster-Management-System
 
 
 
@@ -119,8 +119,7 @@ Firebase Project Setup (Auth, Database, Cloud Messaging)
 
 Local Setup:
 
-# Clone the repo
-git clone https://github.com/DIVYANSH1610/RESQ
+
 
 # Install dependencies
 cd RESQ
