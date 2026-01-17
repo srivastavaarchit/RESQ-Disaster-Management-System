@@ -81,8 +81,6 @@ Sponsor Technologies Used:
 
 Demo Video Link: https://drive.google.com/file/d/12_gPt20FFl2jcNe4GN2l26KXV5fCDZOm/view?usp=drivesdk
 
-MVP (Working Prototype):
-
 Live MVP: https://divyansh1610.github.io/RESQ/
 
 GitHub Repository: https://github.com/srivastavaarchit/RESQ-Disaster-Management-System
